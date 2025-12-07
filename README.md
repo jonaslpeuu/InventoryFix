@@ -15,7 +15,7 @@ Entwickelt für den Hackathon 2025.
 
 ## 🛠 Technologien
 
-*   **Sprache:** Swift 6
+*   **Sprache:** Swift
 *   **UI Framework:** SwiftUI
 *   **Datenbank:** SwiftData
 *   **KI & Vision:** CoreML, Vision Framework (YOLOv3 Object Detection)
@@ -26,18 +26,11 @@ Entwickelt für den Hackathon 2025.
     ```bash
     git clone https://github.com/jonaslpeuu/InventoryFix.git
     ```
-2.  Öffne den Ordner `InventoryFix` in **Xcode 16** (oder neuer).
+2.  Öffne den Ordner `InventoryFix` in **Xcode 21** .
 3.  Warte kurz, bis Xcode die Pakete geladen hat.
 4.  Wähle dein **Development Team** in den Projekteinstellungen (Signing & Capabilities).
 5.  Schließe dein iPhone an und wähle es als Zielgerät aus (die Kamera-Features funktionieren am besten auf echter Hardware).
-6.  Drücke **Run (Cmd+R)**.
+6.  Drücke **Run**.
 
-> **Hinweis:** Da das KI-Modell groß ist, nutzt dieses Repo **Git LFS**. Stelle sicher, dass du `git-lfs` installiert hast, wenn du klonst.
-
-## 📸 Screenshots
-
-*(Hier kannst du Screenshots deiner App einfügen)*
-
----
 
 *Made with ❤️ by Jonas*
