@@ -2,7 +2,7 @@
 
 **InventoryFix** ist dein intelligenter, persönlicher Inventar-Manager. Schluss mit manuellem Abtippen: Mach einfach ein Foto von einem Gegenstand, und die integrierte KI erkennt automatisch, was es ist!
 
-Entwickelt für den Hackathon 2025.
+
 
 ---
 
